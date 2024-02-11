@@ -1,7 +1,100 @@
 <h1 align="center">Hi 👋, I'm AMANTLE Tshadi BOGACU</h1>
 <h3 align="center">A Computer Systems Engineering Student in the UK originally from Botswana</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4tshadi" alt="4tshadi" /></a> </p>
+
+```javascript
+const anmol = {
+    pronouns: "She" | "Her",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/ant-design">
+        <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="60" />
+        <br />
+        Python
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/react-component">
+        <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="60" />
+        <br />
+        C
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/actions-cool">
+        <img src="https://avatars1.githubusercontent.com/u/73879334?s=200&v=4" width="60" />
+        <br />
+        Rust
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/umijs">
+        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
+        <br />
+        HTML
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/antvis">
+        <img src="https://avatars.githubusercontent.com/u/19199542?s=200&v=4" width="60" />
+        <br />
+        CSS
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/react-component">
+        <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="60" />
+        <br />
+        react-component
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/umijs">
+        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
+        <br />
+        Java
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/antvis">
+        <img src="https://avatars.githubusercontent.com/u/19199542?s=200&v=4" width="60" />
+        <br />
+        TCL
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/react-component">
+        <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="60" />
+        <br />
+        MATLAB
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
