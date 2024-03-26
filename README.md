@@ -1,24 +1,36 @@
 <h1 align="center">Hi 👋, I'm AMANTLE Tshadi BOGACU</h1>
 <h3 align="center">A Computer Systems Engineering Student in the UK originally from Botswana</h3>
 
-
+### MY DIGITAL RECIPE 🧁
+---
+### ingredients
+---
 ```javascript
-const amantle = {
+const dry ingredients = {
+    name: Amantle Tshadi Bogacu,
     pronouns: "She" | "Her",
-    code: ["Javascript", "Python", "Java", "Rust"],
     hobbies: ["upcycling", "baking", "sewing", "crocheting", "travelling"],
+};
+```
+```javascript
+const wet ingredients = {
+    code: ["Javascript", "Python", "Java", "Rust"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
+       js: ["Node", "Fastify", "Express"],
         devOps: ["AWS", "Docker🐳"],
         databases: ["MySql", "sqlite", "postgres"],
     },
+};
+```
+```javascript
+const extra ingredients = {
     implementation: ["synthesis", "timing", "floor planning"],
     currentFocus: "growing my skills to become an all rounded computer scientist",
 };
 ```
-
+---
+### Instructions
+---
 <table>
   <tr>
     <td align="center" width="200">
@@ -29,7 +41,7 @@ const amantle = {
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://github.com/react-component">
+      <a href="https://github.com/c-component">
         <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="60" />
          <br />
         C
@@ -67,7 +79,7 @@ const amantle = {
     </td>
     <td align="center" width="200">
       <a href="https://github.com/antvis">
-        <img src="https://avatars.githubusercontent.com/u/19199542?s=200&v=4" width="60" />
+      <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
         <br />
         CSS
       </a>
@@ -75,7 +87,7 @@ const amantle = {
     <td align="center" width="200">
       <a href="https://github.com/react-component">
          <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
-        <br />
+        <br />  
         Javascript
       </a>
     </td>
@@ -111,7 +123,7 @@ const amantle = {
     </td>
   </tr>
 </table>
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amantle bogacu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amantle bogacu" height="30" width="40" /></a>
