@@ -31,42 +31,10 @@ const amantle = {
     <td align="center" width="200">
       <a href="https://github.com/react-component">
         <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="60" />
-        <br />
+         <br />
         C
       </a>
     </td>
-    <td align="center" width="200">
-      <a href="https://github.com/actions-cool">
-        <img src="https://avatars1.githubusercontent.com/u/73879334?s=200&v=4" width="60" />
-        <br />
-        Rust
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/umijs">
-        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
-        <br />
-        HTML
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/antvis">
-        <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
-        <br />
-        CSS
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/react-component">
-        <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" /> 
-        <br />
-        react-component
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td align="center" width="200">
       <a href="https://github.com/umijs">
         <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
@@ -76,9 +44,32 @@ const amantle = {
     </td>
     <td align="center" width="200">
       <a href="https://github.com/antvis">
+        <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
+        <br />
+        Javascript
+      </a>
+    </td>
+    </tr>
+    <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/react-component">
+        <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" /> 
+        <br />
+        react-component
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/umijs">
+        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
+        <br />
+        HTML
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/antvis">
         <img src="https://avatars.githubusercontent.com/u/19199542?s=200&v=4" width="60" />
         <br />
-        TCL
+        CSS
       </a>
     </td>
     <td align="center" width="200">
@@ -109,6 +100,13 @@ const amantle = {
          <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
         <br />
         Flask
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/react-component">
+         <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
+        <br />
+        Something
       </a>
     </td>
   </tr>
