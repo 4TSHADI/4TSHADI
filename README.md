@@ -14,7 +14,7 @@ const dry ingredients = {
 ```
 ```javascript
 const wet ingredients = {
-    code: ["Javascript", "Python", "Java", "Rust"],
+    code: ["C/C++", "C#", Javascript", "Python", "Java", "Rust"],
     technologies: {
        js: ["Node", "Fastify", "Express"],
         devOps: ["AWS", "Docker🐳"],
