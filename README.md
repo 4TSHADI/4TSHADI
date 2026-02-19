@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMANTLE Tshadi BOGACU</h1>
-<h3 align="center">A Computer Systems Engineering Student in the UK originally from Botswana</h3>
+<h3 align="center">A Computer Systems Engineering Graduate</h3>
 
 ### MY DIGITAL RECIPE 🧁
 ---
