@@ -2,11 +2,6 @@
 <h3 align="center">Computer Systems Engineering Graduate</h3>
 <br/>
 ---
-### 🧁 MY DIGITAL RECIPE
----
-### 🫙 Ingredients
-<h1 align="center">Hi 👋, I'm AMANTLE Tshadi BOGACU</h1>
-<h3 align="center">A Computer Systems Engineering Graduate</h3>
 
 ### MY DIGITAL RECIPE 🧁
 ---
