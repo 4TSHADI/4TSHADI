@@ -51,7 +51,7 @@ const extra ingredients = {
       <a href="https://github.com/umijs">
         <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
         <br />
-        Java
+        Cpp
       </a>
     </td>
     <td align="center" width="200">
@@ -116,9 +116,9 @@ const extra ingredients = {
     </td>
     <td align="center" width="200">
       <a href="https://github.com/react-component">
-         <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
+         <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Java Icon" />
         <br />
-        Something
+        Java
       </a>
     </td>
   </tr>
