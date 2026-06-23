@@ -78,7 +78,7 @@ const extra ingredients = {
   <a href="https://instagram.com/rxrely.tshadi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.tiktok.com/@amantle_bogacu" target="_blank">
+  <a href="https://www.tiktok.com/@xmxntle" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://www.youtube.com/@Amantle-Tshadi" target="_blank">
