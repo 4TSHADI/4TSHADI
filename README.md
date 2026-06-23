@@ -5,7 +5,7 @@
 ### 🧁 MY DIGITAL RECIPE
 ---
 ### 🫙 Ingredients
-how can i improve this <h1 align="center">Hi 👋, I'm AMANTLE Tshadi BOGACU</h1>
+<h1 align="center">Hi 👋, I'm AMANTLE Tshadi BOGACU</h1>
 <h3 align="center">A Computer Systems Engineering Graduate</h3>
 
 ### MY DIGITAL RECIPE 🧁
