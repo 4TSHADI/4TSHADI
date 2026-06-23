@@ -5,27 +5,34 @@
 ### 🧁 MY DIGITAL RECIPE
 ---
 ### 🫙 Ingredients
+how can i improve this <h1 align="center">Hi 👋, I'm AMANTLE Tshadi BOGACU</h1>
+<h3 align="center">A Computer Systems Engineering Graduate</h3>
+
+### MY DIGITAL RECIPE 🧁
+---
+### ingredients
+---
 ```javascript
-const dryIngredients = {
-    name: "Amantle Tshadi Bogacu",
+const dry ingredients = {
+    name: Amantle Tshadi Bogacu,
     pronouns: "She" | "Her",
     hobbies: ["upcycling", "baking", "sewing", "crocheting", "travelling"],
 };
 ```
 ```javascript
-const wetIngredients = {
-    code: ["C/C++", "C#", "JavaScript", "Python", "Java", "Rust"],
+const wet ingredients = {
+    code: ["C/C++", "C#", Javascript", "Python", "Java", "Rust"],
     technologies: {
-        js:        ["Node.js", "Fastify", "Express"],
-        devOps:    ["AWS", "Docker 🐳"],
-        databases: ["MySQL", "SQLite", "PostgreSQL"],
+       js: ["Node", "Fastify", "Express"],
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["MySql", "sqlite", "postgres"],
     },
 };
 ```
 ```javascript
-const extraIngredients = {
+const extra ingredients = {
     implementation: ["synthesis", "timing", "floor planning"],
-    currentFocus:   "Growing my skills to become an all-rounded computer scientist",
+    currentFocus: "growing my skills to become an all rounded computer scientist",
 };
 ```
 ---
