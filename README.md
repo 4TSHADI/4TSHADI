@@ -11,7 +11,7 @@ how can i improve this <h1 align="center">Hi 👋, I'm AMANTLE Tshadi BOGACU</h1
 ### MY DIGITAL RECIPE 🧁
 ---
 ### ingredients
----
+
 ```javascript
 const dry ingredients = {
     name: Amantle Tshadi Bogacu,
@@ -35,6 +35,8 @@ const extra ingredients = {
     currentFocus: "growing my skills to become an all rounded computer scientist",
 };
 ```
+
+
 ---
 ### 🍳 Instructions — Tech Stack
 > Follow these steps carefully for the best results 👩‍🍳
