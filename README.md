@@ -1,134 +1,78 @@
-<h1 align="center">Hi 👋, I'm AMANTLE Tshadi BOGACU</h1>
-<h3 align="center">A Computer Systems Engineering Graduate</h3>
-
-### MY DIGITAL RECIPE 🧁
+<h1 align="center">Hi 👋, I'm Amantle Tshadi Bogacu</h1>
+<h3 align="center">Computer Systems Engineering Graduate</h3>
+<br/>
 ---
-### ingredients
+### 🧁 MY DIGITAL RECIPE
 ---
+### 🫙 Ingredients
 ```javascript
-const dry ingredients = {
-    name: Amantle Tshadi Bogacu,
+const dryIngredients = {
+    name: "Amantle Tshadi Bogacu",
     pronouns: "She" | "Her",
     hobbies: ["upcycling", "baking", "sewing", "crocheting", "travelling"],
 };
 ```
 ```javascript
-const wet ingredients = {
-    code: ["C/C++", "C#", Javascript", "Python", "Java", "Rust"],
+const wetIngredients = {
+    code: ["C/C++", "C#", "JavaScript", "Python", "Java", "Rust"],
     technologies: {
-       js: ["Node", "Fastify", "Express"],
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["MySql", "sqlite", "postgres"],
+        js:        ["Node.js", "Fastify", "Express"],
+        devOps:    ["AWS", "Docker 🐳"],
+        databases: ["MySQL", "SQLite", "PostgreSQL"],
     },
 };
 ```
 ```javascript
-const extra ingredients = {
+const extraIngredients = {
     implementation: ["synthesis", "timing", "floor planning"],
-    currentFocus: "growing my skills to become an all rounded computer scientist",
+    currentFocus:   "Growing my skills to become an all-rounded computer scientist",
 };
 ```
 ---
-### Instructions
----
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/ant-design">
-        <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="60" />
-        <br />
-        Python
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/c-component">
-        <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="60" />
-         <br />
-        C
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/umijs">
-        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
-        <br />
-        Cpp
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/antvis">
-        <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
-        <br />
-        Javascript
-      </a>
-    </td>
-    </tr>
-    <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/react-component">
-        <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" /> 
-        <br />
-        react-component
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/umijs">
-        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
-        <br />
-        HTML
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/antvis">
-      <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
-        <br />
-        CSS
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/react-component">
-         <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
-        <br />  
-        Javascript
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/umijs">
-        <img src="https://avatars2.githubusercontent.com/u/33895495?s=200&v=4" width="60" />
-        <br />
-        Bash Scripting
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/antvis">
-        <img src="https://avatars.githubusercontent.com/u/19199542?s=200&v=4" width="60" />
-        <br />
-        SQL
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/react-component">
-         <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
-        <br />
-        Flask
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/react-component">
-         <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Java Icon" />
-        <br />
-        Java
-      </a>
-    </td>
-  </tr>
-</table>
----
-<h3 align="left">Connect with me:</h3>
+### 🍳 Instructions — Tech Stack
+> Follow these steps carefully for the best results 👩‍🍳
+<br/>
+**Step 1 — Sift together the languages:**
 <p align="left">
-<a href="https://linkedin.com/in/amantle bogacu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amantle bogacu" height="30" width="40" /></a>
-<a href="https://instagram.com/rxrely.tshadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rxrely.tshadi" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@amantle_bogacu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok" alt="amantle_bogacu" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,java,rust,html,css,bash&perrow=10" alt="Languages"/>
+  </a>
 </p>
-
-
+<br/>
+**Step 2 — Fold in the frameworks & tools:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,flask,docker,aws&perrow=10" alt="Frameworks and Tools"/>
+  </a>
+</p>
+<br/>
+**Step 3 — Sprinkle in the databases:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perrow=10" alt="Databases"/>
+  </a>
+</p>
+<br/>
+**Step 4 — Bake at high frequency 🔌 — Physical Implementation:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Genus_Synthesis-00B4D8?style=for-the-badge&logoColor=white" alt="Genus Synthesis"/>
+  <img src="https://img.shields.io/badge/Innovus-FF6B35?style=for-the-badge&logoColor=white" alt="Innovus"/>
+  <img src="https://img.shields.io/badge/Conformal_LEC-7B2FBE?style=for-the-badge&logoColor=white" alt="Conformal LEC"/>
+  <img src="https://img.shields.io/badge/Virtuoso-E11D48?style=for-the-badge&logoColor=white" alt="Virtuoso"/>
+</p>
+---
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/amantle-bogacu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/rxrely.tshadi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.tiktok.com/@amantle_bogacu" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://youtube.com/@amantle_bogacu" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
